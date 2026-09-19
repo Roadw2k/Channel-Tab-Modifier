@@ -1,0 +1,9 @@
+## Interface: 120100
+## Title: Channel Tab Modifier
+## Notes: Customize chat tab names, colors, and opacity with a modern settings panel.
+## Author: Roadw2k
+## Version: 1.0.0
+## IconTexture: Interface\FriendsFrame\UI-Toast-ChatInviteIcon
+## SavedVariables: CTMDB
+
+ChannelTabModifier.lua
